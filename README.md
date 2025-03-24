@@ -13,6 +13,7 @@ Steps
 2.  Understand current data structures of each Endpoint
 3.  Verify data Endpoints to fullfill requirements (Word Count per Agency and Historical Changes over time)
 4.  Review data Endpoints to expand on for Custom Metrics
-5.  Build Python Code to 
+5.  Document API Endpoint Flow.
+
 
 
