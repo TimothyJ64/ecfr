@@ -18,7 +18,8 @@ Preliminary Steps
 
 Coding
 1. I have chosen to use Python's FastAPI for it's speed, ease of use, type checking, automatic interactive API documentation and asynchronous support.
-2.   
+2. The backend will interact with the API which will combine data from a number of endpoints.
+3. The Front-end will use React -  
 
 
 
