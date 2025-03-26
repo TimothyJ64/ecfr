@@ -19,9 +19,9 @@ Preliminary Steps
 Coding
 1. I have chosen to use Python's FastAPI for it's speed, ease of use, type checking, automatic interactive API documentation and asynchronous support.
 2. The backend will interact with the API which will combine data from a number of endpoints.
-3. The Front-end will use React -
+3. The Front-end will use React - Vite : Tailwinds CSS for responsive UI - ShadCN/UI for reusable and cool components (table,tabs,cards)
 4. Testing with (see code) main.py - FastAPI to retrieve data for each Title (Display Name and Amended date)
-5. 
+5. The main.py program was tested against many of the eCFR API endpoints to get a better understanding of the data structures.
 
 
 
