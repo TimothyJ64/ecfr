@@ -15,6 +15,7 @@ Preliminary Steps
 3.  Verify data Endpoints to fullfill requirements (Word Count per Agency and Historical Changes over time)
 4.  Review data Endpoints to expand on for Custom Metrics
 5.  Document API Endpoint Flow.
+6.  Found there were many issues with Search functionality within the API.
 
 Coding
 1. I have chosen to use Python's FastAPI for it's speed, ease of use, type checking, automatic interactive API documentation and asynchronous support.
