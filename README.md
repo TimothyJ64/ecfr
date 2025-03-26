@@ -23,6 +23,7 @@ Coding
 3. The Front-end will use React - Vite : Tailwinds CSS for responsive UI - ShadCN/UI for reusable and cool components (table,tabs,cards)
 4. Testing with (see code) main.py - FastAPI to retrieve data for each Title (Display Name and Amended date)
 5. The main.py program was tested against many of the eCFR API endpoints to get a better understanding of the data structures.
+6. A Meterics and Change History will be implemented as a tree structure as our front-end.
 
 
 
