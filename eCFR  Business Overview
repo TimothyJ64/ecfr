@@ -23,8 +23,8 @@ Table of Contents	Allows you to drill down into chapters, parts, and subparts of
 Section Text Retrieval	Fetches the actual regulatory text of any section, along with headers and references.
 Amendment Tracking	Allows queries for the most recent amendments to regulations.
 Date-Specific Queries	Supports retrieval of regulatory content as it existed on a given date.
-Example Endpoint:
 
+Example Endpoint:
 plaintext
 Copy
 Edit
