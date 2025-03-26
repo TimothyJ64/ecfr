@@ -25,4 +25,7 @@ Coding
 5. The main.py program was tested against many of the eCFR API endpoints to get a better understanding of the data structures.
 6. A Metrics and Change History will be implemented as a tree structure on the front-end.
 
+Please review the eCFR Agency Rule Explorer doc.  This details my understanding of the requirements for this project.
+In all cases, review of the requirements would be hashed out in a Scrum session. 
+This is on ongoing development tool...
 
