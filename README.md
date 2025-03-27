@@ -25,7 +25,11 @@ Coding
 5. The main.py program was tested against many of the eCFR API endpoints to get a better understanding of the data structures.
 6. A Metrics and Change History will be implemented as a tree structure on the front-end.
 
+I try to follow the 12 Point Guide to Developing Code...
+Point 12 is: 12. Optimize When Needed -Don’t prematurely optimize. First make it work, then make it fast if it becomes a bottleneck.
+That is why I am only pulling a small (10) population of data in the backend during my development phase.
+
 Please review the eCFR Agency Rule Explorer doc.  This details my understanding of the requirements for this project.
 In all cases, review of the requirements would be hashed out in a Scrum session. 
-This is on ongoing development tool...
+This is on ongoing development...
 
