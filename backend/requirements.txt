@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+requests
+beautifulsoup4
+prometheus_client
