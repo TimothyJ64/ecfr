@@ -1,3 +1,30 @@
+# --- Node ---
+node_modules/
+dist/
+.angular/
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+*.egg
+*.log
+.env
+venv/
+env/
+build/
+pip-wheel-metadata/
+*.sqlite3
+.DS_Store
+
+# --- VS Code ---
+.vscode/
+
+
 # === PYTHON ===
 
 __pycache__/
