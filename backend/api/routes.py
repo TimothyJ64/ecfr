@@ -66,7 +66,7 @@ def get_all_hierarchies(request: Request):
 
 @router.get("/api/agencies/history")
 def get_agency_histories(request: Request):
-    logger.info(f"Cocks I Slop")
+    logger.info(f"Begin Agency History blah blah blah")
     start = time.time()
     try:
         with open("out.json", "r", encoding="utf-8") as f:
